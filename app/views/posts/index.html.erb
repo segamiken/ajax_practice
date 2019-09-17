@@ -1,0 +1,14 @@
+<h1>Post Ajax</h1>
+
+<h2>New Post</h2>
+<%= form_with model: @post do |form| %>
+  <%= form.text_field :comment %>
+  <%= form.submit %>
+<% end %>
+
+<h2>All Post</h2>
+<div class="post_wrapper">
+  <% @posts.each do |post| %>
+    <p><%= post.comment %></p>
+  <% end %>
+</div>
