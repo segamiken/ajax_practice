@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Reference web pages
+## https://www.bokukoko.info/entry/2017/12/22/194327
 
-Things you may want to cover:
+## https://qiita.com/shotadesu/items/a3066b33a1625b1a6f5e
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## https://ysk-pro.hatenablog.com/entry/2018/02/10/101739
